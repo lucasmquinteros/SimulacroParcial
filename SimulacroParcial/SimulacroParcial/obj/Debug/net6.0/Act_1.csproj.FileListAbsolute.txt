@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\bin\Debug\net6.0\Act_1.exe
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\bin\Debug\net6.0\Act_1.deps.json
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\bin\Debug\net6.0\Act_1.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\bin\Debug\net6.0\Act_1.dll
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\bin\Debug\net6.0\Act_1.pdb
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\obj\Debug\net6.0\Act_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\obj\Debug\net6.0\Act_1.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\obj\Debug\net6.0\Act_1.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\obj\Debug\net6.0\Act_1.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\obj\Debug\net6.0\Act_1.dll
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\obj\Debug\net6.0\refint\Act_1.dll
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\obj\Debug\net6.0\Act_1.pdb
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\obj\Debug\net6.0\Act_1.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\SimulacroParcial\SimulacroParcial\obj\Debug\net6.0\ref\Act_1.dll
